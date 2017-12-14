@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seguridad de Sistemas Software</string>
+    <string name="title_unsafe">Unsafe</string>
+    <string name="title_safe">Safe</string>
+    <string name="title_home">Home</string>
+    <string name="url">URL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

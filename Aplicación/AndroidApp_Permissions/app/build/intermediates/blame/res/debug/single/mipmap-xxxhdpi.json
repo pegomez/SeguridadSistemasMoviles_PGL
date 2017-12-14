@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pedrogomezlopez/Desktop/LBS_Project/Experiment/AndroidWebView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/pedrogomezlopez/Desktop/LBS_Project/Experiment/AndroidWebView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pedrogomezlopez/Desktop/LBS_Project/App/AndroidWebView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/pedrogomezlopez/Desktop/LBS_Project/App/AndroidWebView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pedrogomezlopez/Desktop/LBS_Project/Experiment/AndroidWebView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/pedrogomezlopez/Desktop/LBS_Project/Experiment/AndroidWebView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pedrogomezlopez/Desktop/LBS_Project/App/AndroidWebView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/pedrogomezlopez/Desktop/LBS_Project/App/AndroidWebView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

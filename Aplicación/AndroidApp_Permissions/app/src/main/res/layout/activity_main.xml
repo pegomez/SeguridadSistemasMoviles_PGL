@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ssm_pgl.pedrogomezlopez.permisos.MainActivity">
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/safe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:backgroundTint="#01ff34"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/safe"
+        android:layout_alignTop="@+id/unsafe"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="56dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/unsafe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:backgroundTint="#ff0400"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/unsafe"
+        android:layout_marginEnd="61dp"
+        android:layout_marginBottom="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100pt"
+        android:layout_height="100pt"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="300pt"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView"
+        android:layout_marginTop="21dp"
+        android:maxLines="3"
+        android:text="Seguridad de Sistemas Software\nPedro Gómez López\nExperimentación con permisos en Android"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="8pt" />
+
+    <TextView
+        android:id="@+id/project"
+        android:layout_width="300pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="31dp"
+        android:textAlignment="center"
+        android:textStyle="italic"
+        android:textSize="8pt"
+        android:text="Seguridad en Sistemas Móviles"
+        android:textColor="#000000"
+        android:layout_below="@+id/info"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

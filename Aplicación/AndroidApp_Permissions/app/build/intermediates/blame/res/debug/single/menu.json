@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pedrogomezlopez/Desktop/LBS_Project/Experiment/AndroidWebView/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/Users/pedrogomezlopez/Desktop/LBS_Project/Experiment/AndroidWebView/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/Users/pedrogomezlopez/Desktop/LBS_Project/App/AndroidWebView/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/Users/pedrogomezlopez/Desktop/LBS_Project/App/AndroidWebView/app/src/main/res/menu/navigation.xml"
+    }
+]
