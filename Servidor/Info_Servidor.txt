@@ -1,0 +1,8 @@
+Para el caso de la máquina virtual con Lubuntu que nos permite levantar el servidor configurado de Apache, habremos de dirigirnos a la siguiente dirección y proceder a la descarga del archivo:
+https://drive.google.com/file/d/1mYDI3wkRHjOkX4M_yOklOQ-V2ZQWU8RG/view?usp=sharing
+Posteriormente, con la herramienta VirtualBox podremos importar la máquina virtual y empezar a trabajar. Para probar la funcionalidad tan solo es necesario iniciarla.
+Seguidamente, para comprobar que todo ha ido como esperábamos, en las siguientes direcciones habrán de mostrarse las diferentes páginas web:
+http://localhost:8080/Attack/User.html
+http://localhost:8080/Attack/Attacker.html
+http://localhost:8080/Mitigation/User.html
+http://localhost:8080/Mitigation/Attacker.html
